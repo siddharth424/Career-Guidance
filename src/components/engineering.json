@@ -1,0 +1,19 @@
+[{
+    "id":"1",
+    "name" : "Amrita University",
+    "email" : "AEEE",
+    "phone" : "www.amrita.edu"
+},
+{
+    "id":"2",
+    "name" : "IIT Delhi",
+    "email" : "JEE Advanced",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"3",
+    "name" : "SRM",
+    "email" : "SRMEE",
+    "phone" : "www.srm.edu"
+}]

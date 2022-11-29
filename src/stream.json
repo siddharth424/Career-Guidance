@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "caption": "Accountancy",
+        "icon": "../assets/Accountancy.jpg"
+    },
+    {
+        "id":2,
+        "caption": "Medical",
+         "icon": "../assets/Medical.jpg"
+    }
+    ,
+    {
+        "id":3,
+        "caption": "Law",
+        "icon": "../assets/Law.jpg"
+    },
+    {
+        "id":4,
+        "caption": "Engineering",
+        "icon": "../assets/Engineering.jpg"
+    },
+    {
+        "id":5,
+        "caption": "Banking",
+         "icon": "../assets/Banking.jpg"
+    }
+    ,
+    {
+        "id":6,
+        "caption": "Journalism",
+        "icon": "../assets/Journalism.jpg"
+    },
+        {
+        "id":7,
+        "caption": "Unique",
+        "icon": "../assets/Unique.jpg"
+    }
+]

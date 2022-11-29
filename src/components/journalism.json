@@ -1,0 +1,19 @@
+[{
+    "id":"1",
+    "name" : "Journalism1",
+    "email" : "Journalism-1",
+    "phone" : "www.Journalism-1.edu"
+},
+{
+    "id":"2",
+    "name" : "Journalism1",
+    "email" : "Journalism-1",
+    "phone" : "www.Journalism-2.edu"
+}
+,
+{
+    "id":"3",
+    "name" : "Journalism-3",
+    "email" : "Journalism",
+    "phone" : "www.Journalism-3.edu"
+}]

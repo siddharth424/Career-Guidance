@@ -1,0 +1,19 @@
+[{
+    "id":"1",
+    "name" : "AIMS",
+    "email" : "Med-1",
+    "phone" : "www.Med-1.edu"
+},
+{
+    "id":"2",
+    "name" : "Med-2",
+    "email" : "Med",
+    "phone" : "www.Med-2.edu"
+}
+,
+{
+    "id":"3",
+    "name" : "Med-3",
+    "email" : "med",
+    "phone" : "www.med-3.edu"
+}]

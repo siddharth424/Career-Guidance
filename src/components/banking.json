@@ -1,0 +1,19 @@
+[{
+    "id":"1",
+    "name" : "Bank1",
+    "email" : "Bank-1",
+    "phone" : "www.Bank-1.edu"
+},
+{
+    "id":"2",
+    "name" : "Bank1",
+    "email" : "Bank-1",
+    "phone" : "www.Bank-2.edu"
+}
+,
+{
+    "id":"3",
+    "name" : "Bank-3",
+    "email" : "Bank",
+    "phone" : "www.Bank-3.edu"
+}]

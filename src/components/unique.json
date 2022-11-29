@@ -1,0 +1,19 @@
+[{
+    "id":"1",
+    "name" : "unique1",
+    "email" : "unique-1",
+    "phone" : "www.unique-1.edu"
+},
+{
+    "id":"2",
+    "name" : "unique1",
+    "email" : "unique-1",
+    "phone" : "www.unique-2.edu"
+}
+,
+{
+    "id":"3",
+    "name" : "unique-3",
+    "email" : "unique",
+    "phone" : "www.unique-3.edu"
+}]
