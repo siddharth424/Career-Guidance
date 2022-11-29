@@ -1,8 +1,4 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
-import { CssBaseline } from '@material-ui/core';
-import Header from './components/Header';
-import PlaceToVisit from './components/PlaceToVisit';
 import DisplayTableEngineering from './components/DisplayTableEngineering';
 import  Home  from './components/Home';
 import {BrowserRouter as Router, Route, Link, Routes} from 'react-router-dom';
