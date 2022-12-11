@@ -8,6 +8,7 @@ import DisplayTableAccountancy from './components/DisplayTableAccountancy';
 import DisplayTableBanking from './components/DisplayTableBanking';
 import DisplayTableJournalism from './components/DisplayTableJournalism';
 import DisplayTableUnique from './components/DisplayTableUnique';
+import Aboutus from './components/aboutus';
 
 export default function App() {
   return (
@@ -21,6 +22,7 @@ export default function App() {
         <Route path='/DisplayTableBanking' element={<DisplayTableBanking />} />
         <Route path='/DisplayTableJournalism' element={<DisplayTableJournalism />} />
         <Route path='/DisplayTableUnique' element={<DisplayTableUnique />} />
+        <Route path='/aboutus' element={<Aboutus />} />
       </Routes>
     </Router>
     

@@ -1,19 +1,96 @@
 [{
     "id":"1",
-    "name" : "Amrita University",
-    "email" : "AEEE",
+    "name" : "IIT Madras - Indian Institute of Technology",
+    "email" : "JEE Advanced",
     "phone" : "www.amrita.edu"
 },
 {
     "id":"2",
-    "name" : "IIT Delhi",
+    "name" : "IIT Bombay - Indian Institute of Technology",
     "email" : "JEE Advanced",
     "phone" : "www.jee.edu"
 }
 ,
 {
     "id":"3",
-    "name" : "SRM",
-    "email" : "SRMEE",
+    "name" : "NIT Trichy - National Institute of Technology Tiruchirappalli",
+    "email" : "JEE Mains",
     "phone" : "www.srm.edu"
+}
+,
+{
+    "id":"4",
+    "name" : "Amrita Vishwa Vidyapeetham",
+    "email" : "AEEE",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"5",
+    "name" : "Jadavpur University, Kolkata",
+    "email" : "WBJEE",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"6",
+    "name" : "VIT Vellore - Vellore Institute of Technology",
+    "email" : "VITEE",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"7",
+    "name" : "Anna University, Chennai",
+    "email" : "TNEA",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"8",
+    "name" : "SRM University Chennai - SRM Institute of Science and Technology",
+    "email" : "SRMJEEE",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"9",
+    "name" : "Amity University, Noida",
+    "email" : "Amity JEE",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"10",
+    "name" : "JMI New Delhi - Jamia Millia Islamia",
+    "email" : "Jamia Millia Islamia Entrance Exam",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"11",
+    "name" : "Thapar University - Thapar Institute of Engineering and Technology",
+    "email" : "Thapar Entrance Test",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"12",
+    "name" : "BITS Pilani - Birla Institute of Technology and Science",
+    "email" : "BITSAT",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"13",
+    "name" : "IIST Thiruvananthapuram - Indian Institute of Space Science and Technology",
+    "email" : "JEE Advanced",
+    "phone" : "www.jee.edu"
+}
+,
+{
+    "id":"14",
+    "name" : "Chandigarh University, Chandigarh",
+    "email" : "CUCET",
+    "phone" : "www.jee.edu"
 }]

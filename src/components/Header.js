@@ -5,6 +5,8 @@ import SortIcon from '@material-ui/icons/Sort';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import { Link as Scroll } from 'react-scroll';
 import './style.css'
+import { useNavigate } from "react-router-dom";
+
 const useStyles = makeStyles((theme) => ({
   root: {
     display: 'flex',
@@ -52,13 +54,18 @@ export default function Header() {
   useEffect(() => {
     setChecked(true);
   }, []);
+  let navigate = useNavigate(); 
+  const routeChange = (name) =>{ 
+    let path = `aboutus`; 
+    navigate(path);
+  }
   return (
     <div className={classes.root} id="header">
       <AppBar className={classes.appbar} elevation={0}>
         <Toolbar className={classes.appbarWrapper}>
-          {/* <IconButton>
-            <SortIcon className={classes.icon} />
-          </IconButton> */}
+          
+          {<button class="glow-on-hover" type="button" onClick={()=> routeChange()}><b>About Us</b></button>
+}
         </Toolbar>
       </AppBar>
 
