@@ -36,7 +36,7 @@ export default function () {
                   <td>{ users.name} </td>
                   <td>{ users.email} </td>
                         <td>
-                        <a href={users.phone}>link</a></td>                 
+                        <a href={users.phone} target="_blank">link</a></td>                 
                 </tr>
 
                     ))

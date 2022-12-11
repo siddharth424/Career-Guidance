@@ -26,6 +26,8 @@ const useStyles = makeStyles((theme) => ({
     flexGrow: '1',
   },
   icon: {
+    top: '0px',
+    right: '0px',
     color: '#fff',
     fontSize: '2rem',
   },
@@ -38,6 +40,9 @@ const useStyles = makeStyles((theme) => ({
   title: {
     color: '#fff',
     fontSize: '4.5rem',
+  },
+  right: {
+    float: "right",
   },
   line: {
     color: '#fff',
@@ -65,7 +70,11 @@ export default function Header() {
         <Toolbar className={classes.appbarWrapper}>
           
           {<button class="glow-on-hover" type="button" onClick={()=> routeChange()}><b>About Us</b></button>
-}
+          }       
+          <div className={classes.right} class = 'logo'>
+            <img class = 'newimg' src= "../assets/SSR.png" style={{ width : "100%",height : "50px"}} />
+          </div>
+         
         </Toolbar>
       </AppBar>
 
