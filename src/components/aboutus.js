@@ -43,7 +43,7 @@ export default function () {
         <div class="card">
           <img src="../assets/Sagar.jpeg" alt="Mike" style={{  width : "400px",height : "300px"}}/>
           <div class="container">
-            <h2>Sai Sagar</h2>
+            <h2>Saluru Sai Sagar</h2>
             <p>Speaker for Accounting field in Career Guidance <br></br>Session.</p>
             <p> sagarpatnaiksss@gmail.com</p>
             <p><button class="button">Contact</button></p>
